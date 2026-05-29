@@ -4,5 +4,5 @@ title: "A Cardinal's Wings"
 
 
 
-![A Cardinal's Wings Cover](/images/cover.png)
+![A Cardinal's Wings Cover](/A-Cardinal-s-Wings/images/cover.png)
 
