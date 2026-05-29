@@ -25,9 +25,7 @@ Anyways…
 
 ## TLDR
 
-The repetition of behavior, not the sincerity of belief, is what shapes character.
-
-You become the kind of person who does the things you repeatedly do.
+The repetition of behavior, not the sincerity of belief, is what shapes character. You become the kind of person who does the things you repeatedly do.
 
 Habits have a loop:
 
@@ -52,23 +50,19 @@ If you want to break a habit, make it:
 
 You can cut the loop anywhere, and then you cannot execute the habit as easily.
 
-Bad habits repeat themselves not because you do not want to change, but because you have the wrong system for change.
+Bad habits repeat themselves not because you do not *want* to change, but because you have the wrong system for change.
 
-You do not rise to the level of your goals.
-
-You fall to the level of your systems.
+You do not rise to the level of your goals, but fall to the level of your systems.
 
 Small changes often appear to make no difference until you cross a critical threshold.
 
-The most powerful outcomes of any compounding process are delayed.
-
-You need to be patient.
+The most powerful outcomes of any compounding process are delayed. You need to be patient.
 
 ---
 
 ## Context Matters More Than We Think
 
-We do not like to think this, but a lot of our habits depend on our context.
+We do not like to think this, but a lot of our habits depend on our context. Environment is op!
 
 If all our friends are chilling, we will almost always feel at least some urge to go chill too.
 
@@ -121,15 +115,7 @@ Let’s examine each one.
 
 ## Cue
 
-Watching YouTube was very obvious to me because I was constantly using the internet.
-
-Also, struggling with difficult studies is uncomfortable.
-
-That led to a feeling like:
-
-> “I would do anything to stave off my suffering.”
-
-So when I opened a browser to study, YouTube was already nearby.
+Watching YouTube was very obvious to me because I was constantly using the internet, and struggling with difficult studies is uncomfortable. My struggle became a cue to hop on Youtube!
 
 ---
 
@@ -137,15 +123,13 @@ So when I opened a browser to study, YouTube was already nearby.
 
 Since I was uncomfortable, I wanted to get rid of that discomfort.
 
-So I would look around for quick relief.
+So I would look around for quick relief -- hey Youtube is just a few buttons away! I want to watch videos so I can escape.
 
 ---
 
 ## Response
 
-Ah!
-
-YouTube was just a few buttons away:
+I'm uncomfortable + YouTube is nearby, so I did:
 
 `Command + T → y → YouTube autofills → Enter`
 
@@ -155,15 +139,9 @@ By that point, my fingers could do the full motion in a snap.
 
 ## Reward
 
-Watching YouTube felt satisfying.
+Watching YouTube was satisfying.
 
-It was satisfying to see a new cat video, a street chef cooking, pro gamers smoking their competitors, or new speedrun tech.
-
-Then the thought became:
-
-> “Oh man, let’s keep watching!”
-
-Then I would click on random Minecraft videos.
+It was satisfying to see a new cat video, a street chef cooking, pro gamers smoking their competitors, or new speedrun tech. After each video, an even cooler video popped up, and that was another cue to watch another.
 
 ---
 
@@ -171,32 +149,20 @@ Then I would click on random Minecraft videos.
 
 This became a habit because it was:
 
-1. Obvious
+1. obvious
 2. Attractive
 3. Easy
 4. Satisfying
 
-It was super obvious.
+a. It was super obvious, because I already watched YouTube a lot, so every time I opened a browser to study, I knew there was a very high chance I would end up on videos.
 
-I watched YouTube a lot, so every time I opened a browser to study, I knew there was a very high chance I would end up bingeing.
+b. It was attractive, especially when I was grappling with hard concepts from class. (It was also incredibly easy to lose sight of my goals once I started watching those engaging videos. And I also genuinely like watching professional athletes and mathletes do their craft.)
 
-It was attractive, especially when I was grappling with hard concepts from class.
+c. It was absolutely easy; literally four buttons away.
 
-It was incredibly easy to lose sight of my goals once I started watching videos.
+d. But the weird part is that it was not actually that satisfying. It was just a little more satisfying than studying, which was enough to get me started.
 
-I also genuinely like watching professional athletes and mathletes do their craft.
-
-It was absolutely easy.
-
-It was literally four buttons away.
-
-But the weird part is that it was not actually that satisfying.
-
-It was just a little more satisfying than studying, which was enough to get me started.
-
-Then I would feel horrible afterward.
-
-That created a downward spiral:
+Then I would feel horrible afterward, and that created a downward spiral:
 
 **Discomfort → Video → Regret → More discomfort → Another video**
 
@@ -206,8 +172,6 @@ Yeah, this did not go well for me.
 
 ## So How Did I Break This?
 
-Remember the rules from above.
-
 If we want to break a habit, we make it:
 
 1. Invisible
@@ -215,13 +179,9 @@ If we want to break a habit, we make it:
 3. Difficult
 4. Unsatisfying
 
-I really tried to get rid of this habit, so I attacked all four stages of the loop.
-
-My solution is not perfect, but it still helps me.
+I attacked all four stages of the loop. My solution is not perfect, but it still helps me.
 
 Hopefully, it can help you too.
-
-See Chapter 4.1 for more details.
 
 ---
 
@@ -229,27 +189,15 @@ See Chapter 4.1 for more details.
 
 To make YouTube invisible, I minimized the chances that I would be alone with my device.
 
-I kept myself busy.
-
 When I made time for solitude, I asked my mom or friends to hide my device until I got my work done.
-
-This reduced the number of obvious cues around me.
 
 ---
 
 ## Make It Unattractive
 
-This was the biggest part of the solution.
+I had to convince myself that watching YouTube was bad for me, even though it feels great in the short term.
 
-It was also the first part I tackled.
-
-I had to convince myself that watching YouTube was bad for me, even though it could feel like colorful hypnosis.
-
-I convinced myself that bingeing videos made my problems worse.
-
-I also realized I would not want to be remembered for bingeing videos.
-
-That made the habit less attractive.
+I told myself that bingeing videos made my problems worse, and I would not want to be remembered for bingeing videos. (See the parts "Objectives" and "Problems" form the previous section.)
 
 ---
 
@@ -259,63 +207,43 @@ This part was hard.
 
 I installed extensions that blocked recommendations.
 
-I turned off my watch history so I would not get jumped by a horde of wonderful videos screaming for my attention whenever I opened YouTube.
-
-On a smaller note, I removed the apps too.
-
-The goal was to add friction.
+I then turned off my watch history so I would not get jumped by a horde of wonderful videos screaming for my attention whenever I opened YouTube.
 
 ---
 
 ## Make It Unsatisfying
 
-To make YouTube unsatisfying, I maximized the chances that I could get caught.
+To make YouTube unsatisfying, **I maximized the chances that I could get caught.**
 
 For me, that meant going to a professional environment like SF State’s library or a teacher’s office.
 
-If I got caught by a teacher, friend, or even a smart-looking student, I would feel at least a little queasy.
+If I got caught by a teacher, friend, or a smart-looking student, I would feel at least a little queasy, because they'll shoot a "are you serious?" glance!
 
-I was not really “getting caught.”
-
-It was more like they would shoot me an:
-
-> “Are you serious?”
-
-glance.
-
-And that tanked my ego.
-
-So YouTube did not feel as great anymore.
+That tanked my ego, so the thought of watching YouTube did not feel as great anymore.
 
 ---
 
 ## The Biggest Lesson
 
-The biggest thing I learned from dealing with my bad YouTube habit was this:
+This might be a bit of a tangent, but the biggest thing I learned from dealing with my bad YouTube habit was this:
 
 **I should not have done it all by myself.**
 
 If I had asked others how they dealt with this, and if I had consulted books earlier, I probably would have found this solution, or an even better one, in half the time.
 
-Remember, you are not alone.
+Remember, you are not alone. Leverage the people around you.
 
-Leverage the people around you.
+Even if they are not geniuses, they can grow with you. And that makes way more efficient and fun.
 
-Even if they are not geniuses, they can grow with you.
-
-That makes it more fun too.
 
 ---
 
-## Atomic Habits Practices
+##  EXTRA: Atomic Habits Practices
 
-I think it is okay to end the chapter here.
-
-But if you would like some nice practices from *Atomic Habits*, here you go.
+If you would like some nice practices from *Atomic Habits*, here you go.
 
 I highly recommend the book, by the way.
 
----
 
 ## The 1st Law: Make It Obvious
 
@@ -449,17 +377,4 @@ Make the costs of your bad habits public and painful.
 
 ---
 
-## Final Reminder
-
-Habits are not only about motivation.
-
-They are about systems.
-
-If you want better habits, design a better system.
-
-Make good habits obvious, attractive, easy, and satisfying.
-
-Make bad habits invisible, unattractive, difficult, and unsatisfying.
-
-Then get your reps in.
-```
+Onwards!

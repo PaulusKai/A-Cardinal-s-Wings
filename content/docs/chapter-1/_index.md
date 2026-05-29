@@ -1,6 +1,6 @@
 ---
 title: "1. WELCOME"
-weight: 1
+weight: 2
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -30,15 +30,11 @@ Here’s what we’re imagining: you’re sitting in a chair, maybe during the r
 
 No, we aren’t. There are a lot more “college efficient” activities than sitting down to write a book — tbh I think this is probably one of the most inefficient things you can do to get into a school.
 
-> meme: they got us in the first half, not gonna lie.
-
-Unless you’re truly exceptional, high school is a struggle: perhaps the classes could be hard, we are lonely, or we can’t seem to achieve our goals because we are addicted to scrolling/manga/YouTube. Or maybe it’s not a struggle yet. But trust us, problems are going to arise because you’re human. It's like driving through SF's 19th Avenue and trying not to have the car feel like a roller coaster.
+Unless you’re truly exceptional, high school is a struggle: perhaps the classes could be hard, we don't have friends/sleep, or we can’t seem to achieve our goals because we are addicted to scrolling/manga/YouTube. Or maybe it’s not a struggle yet. But trust us, problems are going to arise because you’re human. It's like driving through SF's 19th Avenue and trying not to have the car feel like a roller coaster (ok b4 they paved it.)
 
 Because there's a 99.99% chance that you could stumble in the many pitfalls — why would us seniors sit back when we can help our younger peers out?
 
 So we are going to do what’s called a pro gamer move: reach out to our younger peers, point out pitfalls, and give our solutions/thoughts.
-
-![We’re gonna do what’s called a pro gamer move.](Pasted%20image%2020260312135618.png)
 
 You see, we made mistakes, and one way to turn it into something positive is to tell you.
 

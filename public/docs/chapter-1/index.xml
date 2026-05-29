@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1. WELCOME on A Cardinal&#39;s Wings</title>
-    <link>https://example.org/docs/chapter-1/</link>
+    <link>http://localhost:1313/docs/chapter-1/</link>
     <description>Recent content in 1. WELCOME on A Cardinal&#39;s Wings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/docs/chapter-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/chapter-1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1.1 Changing our POV</title>
-      <link>https://example.org/docs/chapter-1/section-1/</link>
+      <link>http://localhost:1313/docs/chapter-1/section-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/docs/chapter-1/section-1/</guid>
-      <description>&lt;h1 id=&#34;changing-your-pov&#34;&gt;Changing Your POV&lt;a class=&#34;anchor&#34; href=&#34;#changing-your-pov&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;blockquote class=&#39;book-hint &#39;&gt;&#xA;&lt;p&gt;“Unless you make the subconscious conscious, it will direct your life and you will call it fate.”&lt;br&gt;&#xA;— Carl Jung&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;h2 id=&#34;tldr&#34;&gt;TLDR&lt;a class=&#34;anchor&#34; href=&#34;#tldr&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Shifting your POV — what Justin calls paradigm shifting, or PS — is very difficult, but it is probably the most effective way to change yourself, and maybe others.&lt;/p&gt;&#xA;&lt;p&gt;Our paradigms shape our attitude and behaviors, which shape our actions.&lt;/p&gt;&#xA;&lt;p&gt;One common application of this is if you see everybody in your class as an opponent, you simply won’t see opportunities that could benefit everybody — especially when that would actually put you in a better spot than your solo grinding!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/chapter-1/section-1/</guid>
+      <description>&lt;h1 id=&#34;changing-your-pov&#34;&gt;Changing Your POV&lt;a class=&#34;anchor&#34; href=&#34;#changing-your-pov&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;blockquote class=&#39;book-hint &#39;&gt;&#xA;&lt;p&gt;“Unless you make the subconscious conscious, it will direct your life and you will call it fate.”&lt;br&gt;&#xA;— Carl Jung&lt;/p&gt;&#xA;&lt;/blockquote&gt;&lt;h2 id=&#34;tldr&#34;&gt;TLDR&lt;a class=&#34;anchor&#34; href=&#34;#tldr&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Shifting your POV (I&amp;rsquo;ll denote it as PS for Pov Shift) is very difficult, but it is probably the most effective way to change yourself, and maybe others.&lt;/p&gt;&#xA;&lt;p&gt;Our paradigms shape our attitude and behaviors, which shape our actions.&lt;/p&gt;&#xA;&lt;p&gt;I like this example: if you see everybody in your class as an opponent, you simply won’t see opportunities that could benefit everybody — especially when that would actually put you in a better spot than your solo grinding!&lt;/p&gt;</description>
     </item>
     <item>
       <title>1.2 How to receive advice?</title>
-      <link>https://example.org/docs/chapter-1/section-2/</link>
+      <link>http://localhost:1313/docs/chapter-1/section-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/docs/chapter-1/section-2/</guid>
+      <guid>http://localhost:1313/docs/chapter-1/section-2/</guid>
       <description>&lt;h1 id=&#34;how-do-we-get-new-maps&#34;&gt;How Do We Get New Maps?&lt;a class=&#34;anchor&#34; href=&#34;#how-do-we-get-new-maps&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tldr&#34;&gt;TLDR&lt;a class=&#34;anchor&#34; href=&#34;#tldr&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Maps, or paradigms, are powerful.&lt;/p&gt;&#xA;&lt;p&gt;Good information shows us a more accurate map.&lt;/p&gt;&#xA;&lt;p&gt;We can build better maps by having good connections with people and reading good books, among other ways.&lt;/p&gt;&#xA;&lt;p&gt;Above all: &lt;strong&gt;use what we learn.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;We shouldn&amp;rsquo;t hoard knowledge like we’re in a zombie apocalypse, because thoughts unrealized are wasted.&lt;/p&gt;&#xA;&lt;p&gt;It’s incredibly difficult to understand something without actually using it, because life is often smarter than our ruminations.&lt;/p&gt;</description>
     </item>
   </channel>

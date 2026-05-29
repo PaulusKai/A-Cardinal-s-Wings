@@ -1,12 +1,8 @@
 ---
-title: "Docs"
-weight: 1
-# bookFlatSection: false
-# bookToc: true
-# bookHidden: false
-# bookCollapseSection: false
-# bookComments: false
-# bookSearchExclude: false
-# bookHref: ''
-# bookIcon: ''
+title: "Table of Contents"
+weight: 0
 ---
+
+
+![A Cardinal's Wings Cover](/images/cover.png)
+

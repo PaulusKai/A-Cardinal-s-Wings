@@ -26,45 +26,38 @@ We shouldn't hoard knowledge like we’re in a zombie apocalypse, because though
 
 It’s incredibly difficult to understand something without actually using it, because life is often smarter than our ruminations.
 
-Oh, we're not ready?
-
-Do we need to know "just a little" more?
+Oh, we're not ready? Do we need to know "just a little" more?
 
 Nah.
 
 We’re always going to feel unready.
 
-No matter how much we know, improving always requires us to go out of our comfort zone, which is defined as the place where we aren't comfortable.
+No matter how much we know, improving always requires us to go out of our comfort zone, which is defined as the place where we *aren't* comfortable.
 
 We think this comfort zone idea is natural law, so we can't cheat around it.
 
 We know that effective change stems from changing our paradigm.
 
-So **how do we get new maps?**
+So *how do we get new maps?*
 
 ---
+We can think of several ways:
 
 ## 1. Solo Grinding Our Way
 
 **Not recommended.**
 
-One way is to solo grind our way, but this is hard because we struggle to recognize our maps’ faults.
-
-They look like reality.
+One way is to solo grind our way, but this is hard because we struggle to recognize our maps’ faults. Afterall, they look like reality! 
 
 I, Justin, don’t recommend this because I’ve tried to, and I could’ve learned **so much more, way faster** if I did options 2 and 3 instead.
 
 What ends up happening is a lot of unproven theories and mediocre results.
 
-It’s incredibly difficult to understand something without actually using it, because life is smarter than our ruminations.
+It’s incredibly difficult to understand something without actually using it, because life is usually smarter than our ruminations.
 
-Need an introvert person to verify.
+But don’t get me wrong: spending time alone is great. But too much, and we start to delude ourselves.
 
-But don’t get me wrong: spending time alone is great.
-
-But too much, and we start to delude ourselves.
-
-Don’t be like Junior-year Justin.
+Don’t be like Junior-year Justin. Instead use the wisdom from *Thinking Fast and Slow* -- it is way easier for us to spot the faults of others. That's where methods 2, 3, and 4 come in!
 
 ---
 
@@ -80,13 +73,15 @@ I think this is better than solo grinding because if we meet great people, then 
 
 A great example — and a big regret of mine — was when my brother was effectively “handed down” the formula by his business professor for finding your way **and** dealing with distraction.
 
-That was something I spent 3 years building on my own!
+That was something I spent 3 years building on my own! Feels bad. (A modified version is in chapter 4.)
 
 I felt jealous, yet happy there’s a better way to make better paradigms.
 
 Yeah, people can really lift you up.
 
-You are the sum of the people you meet, so if you walk with the wise, you become wise.
+You are the sum of the people you meet, so if you walk with the wise, you become wise -- that's human psychology. I wish I could punch the spirit of human psychology, but life is life and I'm going to end up hurting myself if I try that again.
+
+Hang out with the goats!
 
 ---
 
@@ -102,7 +97,9 @@ Books are one way people can “instill” themselves and their thoughts into us
 
 By reading, you are effectively spending time with the author by taking in their ideas.
 
-Although books are wonderful — they changed my life, and I made a book recommendations list too — they don’t connect you as deeply as actually hanging out with people.
+Although books are wonderful — they changed my life, and I made a book recommendations list too — they don’t connect you as deeply as actually hanging out with people. 
+
+But books are still amazing because the authors have compressed their experience, insight, and suffering in a form you can absorb! Isn't that sick?
 
 ---
 
@@ -114,15 +111,11 @@ Lastly, doing things and taking action.
 
 Capitalize on the wisdom of life, because it is way smarter than whatever you’re ruminating about.
 
-Don’t make decisions.
+Don’t make decisions. As George Mack says, "remove the d-word from your dictionary".
 
 Make experiments.
 
-Don’t feel finished when you think of something.
-
-Do something, however small it may be.
-
-Now I see life as fairly unfair.
+Don’t feel finished when you think of something. Do something, however small it may be.
 
 ---
 
@@ -141,13 +134,11 @@ This bears repeating:
 Isaac puts it this way:
 
 > Don’t let things rot in your mind.  
-> Thoughts unrealized are thoughts wasted.
+> Thoughts unrealized are thoughts wasted. (Ok please be safe though.)
 
-You need to remember to keep doing 2, 3, and 4, with 1 only in moderation.
+You need to remember to keep doing 2, 3, and 4, with 1 only in moderation. It's our choice to do so.
 
-We can choose to do this.
-
-If you run into trouble setting up 2, 3, or 4, then you should read Chapter 2 or talk to a goat.
+If you run into trouble setting up 2, 3, or 4, then you should read Chapter 2 or talk to trusted adults and friends.
 
 Keep 1 around like a flame: make sure it stays alive, but don’t feed it so much that it burns you down.
 
@@ -161,13 +152,11 @@ How can we prevent it from “burning us down?”
 
 One reason we might fall into this pitfall is because we never feel "ready," or comfortable enough, to improve and actually start making changes.
 
-Over time, we realize that it's very rare you'll feel "ready" to use the advice we have here.
-
-If it's a math concept, then ok, that's easy to learn its applications: just do a hard problem on that topic.
+But we realize that it's very rare you'll feel "ready" to use the advice we have here. Part of getting better is moving out of your comfort zone, which means getting out of the zone you're comfortable in!
 
 But what’s more dangerous about this trap?
 
-It snowballs.
+It *snowballs.*
 
 The more we freeze ourselves, the harder it is to feel ready, which makes it even more likely that we freeze ourselves deeper.
 
@@ -181,11 +170,11 @@ Then you'll look back and say:
 
 That is going to kill our motivation and end up making it even less likely to take shots.
 
-And taking shots is one of the best ways to play high school.
+And taking shots is one of the best ways to play high school. 
 
 ---
 
-## The Lesson
+## Ok, What's The Lesson?
 
 No matter how much you know, actually making improvements means moving out of our comfort zones.
 
@@ -199,9 +188,7 @@ If you feel unready most of the time, you aren't alone.
 
 Most people will instinctually hesitate and miss opportunities, even though those opportunities could pay off big time.
 
-This permeated my high school years, and even those before us.
-
-Hamlet especially.
+This permeated my high school years, and even those before us. (Even Shakespeare wrote a lot about this in Hamlet!)
 
 It's hard for our egos to admit, but if your map shows you that hoarding knowledge is better than **using** the knowledge to achieve results, you are headed for danger.
 
@@ -233,23 +220,20 @@ But they are very obvious when time goes on.
 
 They are obvious to us seniors, so we want to tell you:
 
-> **DON'T AVOID THE PAINS.**  
-> **WE REGRETTED IT, AND WE'RE TELLING YOU TO EMBRACE IT.**  
-> Because that's how you're going to grow.
+> **Don't avoid the pains.**  
+> ** set yourself up so that you won't regret it later.**
 
-There are no shortcuts or quick fixes.
+You have wonderful potential, but only if you don't shortcut or quick fixes.
 
 ---
 
 ## The Right Map
 
-We think this is the right map:
-
-> The more you obey it, the better your results will be.
+We think this principle of being ok with moving out of our comfort zone is the right map. The more you obey it, the better your results will be.
 
 Simple as that.
 
-In the world of advice, we depict this phenomenon as:
+We can remember it like this:
 
 > “Growing involves moving out of your comfort zone.”
 
@@ -267,9 +251,7 @@ Instead, it is:
 
 > “To be a little unready, or not to be?”
 
-That is the question.
-
-Thanks, Hamlet.
+That is the question. (Thanks, Hamlet.)
 
 The feeling of unreadiness is always going to be there, no matter how much you learn or prepare.
 
@@ -283,21 +265,21 @@ You won't understand anything — including whatever words we tell you — unles
 
 When you try something, you will obtain your own interpretation of whatever we say.
 
-And **that** is 1000% easier to remember than passively reading.
+And **that** is 1000% easier to remember than passively reading. Again, from *Thinking Fast and Slow*, when we take action, we get experiences which have our emotions firing like crazy, which is one way we are hardwired to remember things!
+
+This leads to...
 
 ## Another Paradigm Shift
 
-Knowledge isn't power.
-
-The knowledge we implement is power.
+ > Knowledge isn't power. The knowledge we implement is power.
 
 We are here to tell you that there isn't a yellow brick road leading you around.
 
 We carve our own paths here.
 
-We do that by using what we know, making experiments, and adjusting bit by bit every day.
+To do that, use what we know, make experiments, and adjust bit by bit every day.
 
-More on that later.
+(More on that later in chapter 3.)
 
 ---
 
@@ -309,8 +291,7 @@ Act on it.
 
 Experiment with it.
 
-We **aren't** your English teachers testing you for how much you can remember.
+We **aren't** your English teachers testing you for how much you can remember. 
 
-We **are** silently scanning around for those who took this to heart.
+FORWARD!
 
-Uhh, did I get that straight?

@@ -17,17 +17,17 @@ weight: 1
 
 ## TLDR
 
-Shifting your POV — what Justin calls paradigm shifting, or PS — is very difficult, but it is probably the most effective way to change yourself, and maybe others.
+Shifting your POV (I'll denote it as PS for Pov Shift) is very difficult, but it is probably the most effective way to change yourself, and maybe others.
 
 Our paradigms shape our attitude and behaviors, which shape our actions.
 
-One common application of this is if you see everybody in your class as an opponent, you simply won’t see opportunities that could benefit everybody — especially when that would actually put you in a better spot than your solo grinding!
+I like this example: if you see everybody in your class as an opponent, you simply won’t see opportunities that could benefit everybody — especially when that would actually put you in a better spot than your solo grinding!
 
-More on that later in the chapter **“abundance > scarcity.”**
+(Should have a later chapter on this, but tbh I don't know if I have the time now.)
 
 **PS:** Very often, the problem isn't out there, but rather how you're seeing it.
 
-We often like to think that what we see is what is, but in reality, it’s what appears to us. We can choose to use the right lens — that is, the right principles — that will let us see what is.
+We often like to think that what we see is what is, but in reality, it’s what appears (*Thinking Fast and Slow!*) to us. We can choose to use the right lens — that is, the right principles — that will let us see what is.
 
 ---
 
@@ -35,15 +35,15 @@ We often like to think that what we see is what is, but in reality, it’s what 
 
 You’ve probably experienced an “Aha!” moment in your life. We are going to talk about those moments.
 
-More formally, we think an “Aha!” moment really is just a paradigm shift.
+More formally, we think an “Aha!” moment really is just a moment you obtained a new pov, or what *7 Habits* calls a paradigm shift.
 
 ## What Does Shifting Your Paradigm Mean?
 
 It means changing the way we interpret our surroundings.
 
-One way to see it is changing your frame of reference: from one frame of reference, an orbit can be a perfect circle, while from another, the same one is spaghetti. It just depends on whose POV you’re looking through — through the broader view, or through the little poor critter that’s getting dragged around the orbit?
+One way to see it is changing your frame of reference: from one frame of reference, an astroid's orbit can be a perfect circle, while from another, the same one is a chaotic scramble. It just depends on whose pov you’re looking through — through the broader view, or through the pov of the little poor alien critter that’s getting dragged around the orbit?
 
-Again, you’ve probably experienced one already, like when doing a hard math problem or when reading a great book.
+Again, you’ve probably experienced one already, like when doing a hard math problem or when reading a mystery book.
 
 A paradigm shift, or PS, is not a change in your attitude or your personality. Those are secondary pieces.
 
@@ -189,9 +189,9 @@ If something bothers you, see if you’re looking at the wrong place.
 
 Try changing the way you see the issue.
 
-We like to treat our maps as realities, but more often than we’d like, they aren’t.
+We like to treat our maps as realities, but more often than we’d like, they aren’t. (If you want a good demonstration of our tendency to treat what we see as reality, look up "Muller-Lyer Illusion". Even though the lines are the same length, we still see them as unequal! Isn't that crazy?
 
-Grab a new map!
+Know that all of us can be wrong, so look to grab a new map!
 
 ---
 

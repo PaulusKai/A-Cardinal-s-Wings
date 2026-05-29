@@ -14,13 +14,13 @@ bookCollapseSection: false
 
 ## TLDR
 
-Sleep is not optional.
+Sleep is not optional. Sleep is goated.
 
-Sleep is goated.
-
-Rest does not mean bingeing on your device.
+If you are resting, that does not mean bingeing on your device. Again, it's just not worth fighting those engineers who devoted their lives to hook you! 
 
 Real breaks should help us recover, not trap us.
+
+Some good suggestions: pre-plan your breaks and environment before you work, making the breaks social is good also.
 
 ---
 
@@ -28,55 +28,34 @@ Real breaks should help us recover, not trap us.
 
 *Why We Sleep* is a 368-page book with one very clear message:
 
-**Sleep or suffer.**
+**Sleep or suffer. Seriously!**
 
-The book uses evidence from science to show how powerful sleep is.
+Dr. Walker, the author, has literally spent his life to tell us to sleep! The book uses evidence from all sorts of science to show how powerful sleep is.
 
-Good sleep helps memory, learning, mood, focus, and health.
+>Yeah, I think we should **sleep well**.
 
-Bad sleep hurts all of those.
+Good sleep helps memory, learning, mood, focus, and health. Bad sleep hurts all of those.
 
-You will not do well in school if you do not sleep.
+You will **not** do well in school if you do not sleep. Unless you are one of those truly gifted people, then be my guest. 
 
-It is usually not worth pulling an all-nighter just to study more or finish more homework.
+It is usually not worth pulling an all-nighter just to study more or finish more homework. Ok, I actually don't have much experience with pulling all-nighters to finish homework, but it's just... you get the point, hopefully.
 
-Cramming works for some people.
-
-It sometimes works for most of us.
-
-But be honest with yourself:
-
-If your cramming system leaves you tired, stressed, inconsistent, and unable to sustain your work, then it probably is not the way to move forward.
+Be honest with yourself: If your cramming system leaves you tired, stressed, inconsistent, and unable to sustain your work, then it probably is not the way to move forward.
 
 It is recommended to sleep at least eight hours, though you can adjust based on yourself.
 
-Some people may say:
-
-> “Oh, my body will adjust.”
-
-That might feel true, but getting used to bad sleep does not mean bad sleep is okay.
-
-For more reasons why we should sleep, you can also read Walker’s book *Why We Sleep*.
+Some people may say “oh, my body will adjust.” That might feel true, but getting used to bad sleep does not mean bad sleep is okay. For more reasons why we should sleep, you can also read Walker’s book *Why We Sleep*. Or you can just heed this advice and just **sleep well**!
 
 ---
-
-## Experiment With Waking Up Early
+## Extra (you can skip this if you want!): Experiment With Waking Up Early
 
 Experiment with whether waking up early fits you well.
 
-Taking a Block 0 may or may not help you.
-
-If you do well waking up early, it could be useful.
+Taking a Block 0 may or may not help you. If you do well waking up early, it could be useful.
 
 But it could also cut into your natural sleep, especially because adolescents’ natural sleep schedules tend to shift later.
 
-If it does not hurt your sleep, waking up earlier can help you focus more easily.
-
-The morning is very quiet.
-
-Also cold.
-
-But the quiet can make it much easier to focus with fewer distractions.
+If it does not hurt your sleep, waking up earlier can help you focus more easily, because the morning is very quiet. Which makes it much easier to focus with fewer distractions.
 
 Still:
 
@@ -90,23 +69,17 @@ But what about resting during the day?
 
 ---
 
-## Using Entertainment? Do Not Binge Brain Rot
+## Using Entertainment? Do Not Binge Your Device
 
-Do not binge YouTube, TikTok, or other platforms to “rest.”
 
-Go hang out with friends.
+>DO NOT BINGE YouTube, TikTok, or other platforms to rest/take a break. I can't believe how many times I told myself "oh I'm just going to watch one video", and then I end up falling prey to the beautifully addictive algorithms of Youtube! (More in the next section.)
 
-Boredom can also be a nice way to rest.
+What's recommended?
+Go hang out with friends. Boredom can also be a nice way to rest if you're alone.
 
-A fun and positive crowd can make life much better.
+Remember from chapter 1.2: A fun and positive crowd can make life much better.
 
-For example, choir can be a really fun crowd.
-
-I used to mistake that kind of group as lazy.
-
-But looking back, it was actually goated.
-
-I wish I had stayed instead of bingeing YouTube videos alone.
+For example, choir can be a really fun crowd. I used to mistake that kind of group as lazy, but looking back, it was actually goated. I really wish I had stayed instead of bingeing YouTube videos alone in the room.
 
 ---
 
@@ -120,23 +93,18 @@ Here is what usually happened to me:
 
 Ten minutes pass.
 
-Beep.
-
 > “Okay, break ended—oh, that video looks really good!”
 
-Then 20 minutes pass.
+Then 20 minutes pass. 40. I'm **tired** now.
 
-Then 40 minutes pass.
+Worse, I feel **guilty** because I just messed up my focus AND my time.
 
-Then I am tired.
 
-Worse, I feel guilty because I just messed up my focus.
+Ok if you **really** want to use entertainment, make sure it brings you closer to people you care about, like playing games only with your siblings.
 
-If you really want to use entertainment, make sure it brings you closer to people you care about.
+The best thing we can do when taking breaks is to not get trapped when you use it.
 
-Do not get trapped when you use it.
-
-When planning how to take a break, ask yourself:
+I kinda like this--When planning how to take a break, I ask myself:
 
 > “Will this help me come back stronger, or make it harder to return?”
 
@@ -146,27 +114,19 @@ Again:
 
 ---
 
-## But What If I Already Doomscrolled?
+## Uh Oh! What If I Already Doomscrolled?
 
-A lot of people have probably had an experience like mine above.
+We lose control and scroll. Then we suddenly realize we should have been grinding.
 
-We lose control and scroll.
+It is like the moment your mom opens the door and you get jumpscared harder than when playing *Five Nights at Freddy’s*. We don't need to go berserk mode, because that gets tiring in the long term.
 
-Then we suddenly realize we should have been grinding.
+I like to gently re-enter motion by starting with simple things:
 
-It is like the moment your mom opens the door and you get jumpscared harder than when playing *Five Nights at Freddy’s*.
+For the next few minutes, usually around five minutes, I do something easy. I get up and organize my things.
 
-Here is what I do:
+This helps me restart without needing a huge amount of willpower/rage. 
 
-For the next few minutes, usually around five minutes, I do something easy.
 
-For example, I get up and organize my things.
-
-This helps me restart without needing a huge amount of willpower.
-
-The goal is not to punish yourself.
-
-The goal is to gently re-enter motion.
 
 ---
 
@@ -178,8 +138,6 @@ Experiment with yourself.
 
 But make sure boredom does not turn into brain rotting.
 
-This is personal, so test it.
-
 Be honest about whether your “rest” is actually restoring you or just numbing you.
 
 Try out different suggestions and notice what actually helps.
@@ -190,59 +148,39 @@ Try out different suggestions and notice what actually helps.
 
 I went through a phase where I tried to make even my breaks “efficient.”
 
-I practiced pen spinning, juggling, mental math, and working out during breaks because I wanted to be the type of person who could do hard math problems and cool tricks.
+I practiced pen spinning, juggling, mental math, and working out during breaks because I wanted to be the type of person who could do hard math problems and cool tricks because who knows why.
 
 The issue was that I was alone for too long.
 
-Studying alone in a secluded place, then taking a break alone to practice some skill, was mentally taxing.
+Now this might not generalize for all of us, but studying alone in a secluded place, then taking a break alone to practice some skill, was TIRING!
 
-By the time I had to return to work, I often felt even more frustrated.
+By the time I had to return to work, I often felt even more frustrated. For example, I was upset that I kept failing that really cool pen spin 20 times, then when the timer rang I didn't want to get back to work.
 
 Earlier, I said we can experiment with being bored.
 
-The reason I add “make sure you do not end up brain rotting” is because when we are tired after a focused session, it is hard to resist temptation.
+The reason I add “make sure you do not end up brain rotting” is because **when we are tired after a focused session, it is hard to resist temptation. **(Remember 4.1? Ego depletion!)
 
 This is especially true when we are alone.
 
 So I suggest:
 
-**Make breaks social when possible.**
+**Make breaks social when possible. Go laugh with friends who were also locked in.**
 
-Go laugh with friends who were also locked in.
-
-Other people can steer our behavior for better or for worse.
-
-Try not to join the people who are brain rotting if you still need to get work done.
-
-You might get pulled in too.
-
-You probably will, because we are human.
+Other people (and things too) can steer our behavior for better or for worse. That's a reason why we must...
 
 ---
 
 ## Prepare Your Environment Before You Work
 
-Set up your future self for success.
+Set up your future self for success. He/she will be tired.
 
-Your future self will probably be tired.
-
-And when you are tired, you are easier to distract.
+And remember when you are tired, you are easier to distract (due to ego depletion.)
 
 That means you are also more likely to binge.
 
-This is where a pre-mortem helps.
-
-A post-mortem asks:
-
-> “What went wrong?”
-
-after something fails.
-
-A pre-mortem asks:
+This is where a pre-mortem (post-mortem, but beforehand) helps. Ask yourself:
 
 > “What might go wrong?”
-
-before it happens.
 
 Before committing to a focused session, I ask myself:
 
@@ -257,7 +195,7 @@ Examples:
 3. Clean unnecessary things off my desk.
 4. Move to the best spot I can find.
 5. Prepare my materials.
-6. Refill my lead.
+6. Refill my lead so that I don't have to get up and end up joining the TikTok scrolling army.
 
 There is a quote that sums this up:
 
@@ -265,23 +203,10 @@ There is a quote that sums this up:
 
 Our battle of focus is easier when our environment helps us.
 
----
-
-## Good Rules for Rest
-
-Sleep well.
-
-Make breaks social when possible.
-
-Avoid breaks that turn into addiction.
-
-Prepare your environment before working.
-
-If you mess up and doomscroll, rebuild momentum with something easy.
 
 ---
 
-## Some Suggestions
+## Some More Break Suggestions
 
 Try these when you need a real break:
 
@@ -292,16 +217,14 @@ Try these when you need a real break:
 5. Run errands.
 6. Sit quietly for a few minutes.
 
----
+## Good Rules for Rest, Summary
 
-## Final Reminder
+Sleep well.
 
-Rest is supposed to help you recover.
+Make breaks social when possible.
 
-It should make it easier to return to your life, your work, and your people.
+Avoid breaks that turn into addiction.
 
-Sleep properly.
+Prepare your environment before working.
 
-Take breaks that actually restore you.
-
-Do not call something “rest” if it leaves you more trapped, tired, and guilty than before.
+If you mess up and doomscroll, rebuild momentum with something easy.

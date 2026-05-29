@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2. Stuck overthinking? → Be proactive! on A Cardinal&#39;s Wings</title>
-    <link>https://example.org/docs/chapter-2/</link>
+    <link>http://localhost:1313/docs/chapter-2/</link>
     <description>Recent content in 2. Stuck overthinking? → Be proactive! on A Cardinal&#39;s Wings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/docs/chapter-2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/chapter-2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2.1 Afraid? --&gt; Shift POV and just do something!</title>
-      <link>https://example.org/docs/chapter-2/section-1/</link>
+      <link>http://localhost:1313/docs/chapter-2/section-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/docs/chapter-2/section-1/</guid>
-      <description>&lt;h1 id=&#34;afraid-shift-pov-and-just-do-something&#34;&gt;Afraid? Shift POV and Just Do Something!&lt;a class=&#34;anchor&#34; href=&#34;#afraid-shift-pov-and-just-do-something&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tldr&#34;&gt;TLDR&lt;a class=&#34;anchor&#34; href=&#34;#tldr&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The problem: we hesitate when faced with the opportunity to grow.&lt;/p&gt;&#xA;&lt;p&gt;This fear hurts us because we may end up missing the opportunity, along with the many benefits it could’ve brought us.&lt;/p&gt;&#xA;&lt;p&gt;So how should we deal with this?&lt;/p&gt;&#xA;&lt;p&gt;A solution: shift your view.&lt;/p&gt;&#xA;&lt;p&gt;Use a new map:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What’s true is that you’re excited. Your body can’t tell the difference for some reason.&lt;/li&gt;&#xA;&lt;li&gt;Nobody cares as much as you think.&lt;/li&gt;&#xA;&lt;li&gt;It’s natural to be scared of new things.&lt;/li&gt;&#xA;&lt;li&gt;We always have the choice to ignore this caveman brain’s fight-or-flight reaction.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Yeah, our bodies lie to us sometimes.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/docs/chapter-2/section-1/</guid>
+      <description>&lt;h1 id=&#34;afraid-shift-pov-and-just-do-something&#34;&gt;Afraid? Shift POV and Just Do Something!&lt;a class=&#34;anchor&#34; href=&#34;#afraid-shift-pov-and-just-do-something&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tldr&#34;&gt;TLDR&lt;a class=&#34;anchor&#34; href=&#34;#tldr&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The problem: we hesitate when faced with the opportunity to grow.&lt;/p&gt;&#xA;&lt;p&gt;This fear hurts us because we may end up missing the opportunity, along with the many benefits it could’ve brought us.&lt;/p&gt;&#xA;&lt;p&gt;So how should we deal with this?&lt;/p&gt;&#xA;&lt;p&gt;One way is to look at it from a new perspective. Shift pov!&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a suggestion for a new map:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What’s true is that you’re excited. Know that our bodies can’t tell the difference for some biological reason.&lt;/li&gt;&#xA;&lt;li&gt;Nobody cares as much as you think.&lt;/li&gt;&#xA;&lt;li&gt;It’s natural to be scared of new things.&lt;/li&gt;&#xA;&lt;li&gt;We can&amp;rsquo;t shut down this caveman brain’s fight-or-flight reaction, but we can still choose to move forward!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Know that our bodies lie to us sometimes. We don&amp;rsquo;t need to be the jailer of your own cell.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
